@@ -22,9 +22,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0033-search-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0033-search-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
