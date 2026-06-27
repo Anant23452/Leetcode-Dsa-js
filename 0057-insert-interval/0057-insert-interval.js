@@ -4,23 +4,29 @@
  * @return {number[][]}
  */
 var insert = function (arr, x) {
-    arr.push(x);
-    console.log(arr);
-    arr.sort((a, b) => a[0] - b[0])
-    let prev = 0;
-    let curr = 1;
-    while (curr < arr.length) {
-        if (arr[prev][1] >= arr[curr][0]) {
-            arr[prev][0] = Math.min(arr[prev][0], arr[curr][0]);
-            arr[prev][1] = Math.max(arr[prev][1], arr[curr][1]);
-            arr.splice(curr, 1);
-            
-        }
-        else {
-            prev++;
-            curr++
-        }
+    
+    let res =[];
+    let i =0;
+    let n =arr.length;
+
+    // add all elment before newinterval 
+    while(i<n && arr[i][1]<x[0]){
+        res.push(arr[i])
+        i++;
     }
-    return arr;
+    // merge opverlapping interval 
+    while(i<n && arr[i][0]<=x[1]){
+        x[0]=Math.min(arr[i][0],x[0]);
+        x[1]=Math.max(arr[i][1],x[1]);
+        i++;
+    }
+    res.push(x);
+    //add remain interva;
+    while(i<n){
+        res.push(arr[i]);
+        i++;
+    }
+    return res;
+   
 
 };
