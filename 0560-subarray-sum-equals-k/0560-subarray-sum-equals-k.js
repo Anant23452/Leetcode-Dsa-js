@@ -3,16 +3,16 @@
  * @param {number} k
  * @return {number}
  */
-var subarraySum = function(arr, k) {
-    let count =0;
-    for(let i =0;i<arr.length;i++){
-        let ans =0;
-        for(let j=i;j<arr.length;j++){
-            ans +=arr[j];
-            if(ans==k){
-                count++;
-            }
+var subarraySum = function(nums, k) {
+    let map = new Map();
+    map.set(0,1);
+    let prefix = count=0;
+    for(let num of nums){
+        prefix += num;
+        if(map.has(prefix-k)){
+            count+=map.get(prefix-k)
         }
+        map.set(prefix,(map.get(prefix) || 0)+1)
     }
     return count;
 };
