@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0162-find-peak-element) |
 | [0435-non-overlapping-intervals](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
 ## String
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
