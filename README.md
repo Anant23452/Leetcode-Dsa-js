@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0495-teemo-attacking](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0495-teemo-attacking) |
+| [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0907-koko-eating-bananas) |
 ## Binary Search
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0049-group-anagrams) |
+| [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0495-teemo-attacking) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
