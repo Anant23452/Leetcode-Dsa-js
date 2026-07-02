@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0242-valid-anagram) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
 ## Design
