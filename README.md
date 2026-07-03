@@ -118,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
