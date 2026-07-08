@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0049-group-anagrams) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0205-isomorphic-strings) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/2383-add-two-integers) |
