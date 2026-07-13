@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0213-house-robber-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0091-decode-ways) |
+| [0152-maximum-product-subarray](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0322-coin-change) |
