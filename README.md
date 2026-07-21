@@ -174,20 +174,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0322-coin-change) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
