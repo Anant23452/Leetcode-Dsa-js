@@ -11,16 +11,23 @@
  * @return {number[][]}
  */
 var levelOrder = function(root) {
-    let ans =[];
+    let q = [];
+    q.push(root)
+    let ans =[]
     if(!root)return [];
-    let traverse = (curr,level)=>{
-        if(!ans[level]){
-            ans[level]=[];
-        };
-        ans[level].push(curr.val);
-        curr.left && traverse(curr.left,level+1);
-        curr.right && traverse(curr.right,level+1)
+    while(q.length){
+        let size = q.length;
+        let level=[];
+        while(size){
+            let node = q.shift();
+            level.push(node.val)
+        node.left && q.push(node.left);
+        node.right && q.push(node.right);
+        size--
+        }
+     
+        ans.push(level)
+
     }
-    traverse(root,0)
     return ans;
 };
