@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0412-fizz-buzz) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0543-diameter-of-binary-tree) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0543-diameter-of-binary-tree) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0543-diameter-of-binary-tree) |
@@ -240,4 +244,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
