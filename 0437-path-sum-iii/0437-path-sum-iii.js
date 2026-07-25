@@ -13,22 +13,24 @@
  */
 var pathSum = function(root, targetSum) {
     let count=0;
-    function dfs(node){
-        if(!node)return ;
-        countPath(node,targetSum);
-        dfs(node.left);
-        dfs(node.right)
-
-    }
-    dfs(root)
-     function countPath(node,remainSum){
+    let runningSum=0;
+    let map = new Map();
+    map.set(0, 1);
+    let target= targetSum
+    function dfs(node,runningSum){
         if(!node)return;
-        remainSum-=node.val;
-        if(remainSum===0)count++;
-        countPath(node.left,remainSum);
-        countPath(node.right,remainSum);
+        runningSum+=node.val;
+        count+=map.get(runningSum-target) || 0;
+      map.set(runningSum, (map.get(runningSum) || 0) + 1);
+        dfs(node.left,runningSum);
+        dfs(node.right,runningSum);
+        //backtrack
+      map.set(runningSum, map.get(runningSum) - 1);
+
+      
     }
-   
+    dfs(root,runningSum)
+    
    
     return count;
 };
