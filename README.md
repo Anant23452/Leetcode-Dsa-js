@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
@@ -249,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0257-binary-tree-paths) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
