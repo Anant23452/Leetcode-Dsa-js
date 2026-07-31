@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0144-binary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0495-teemo-attacking) |
 | [0525-contiguous-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
+| [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
 | [0747-min-cost-climbing-stairs](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0907-koko-eating-bananas) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -325,5 +329,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
