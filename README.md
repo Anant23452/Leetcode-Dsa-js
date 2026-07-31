@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0907-koko-eating-bananas) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1016-subarray-sums-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/4008-restore-finishing-order) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -321,4 +325,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
