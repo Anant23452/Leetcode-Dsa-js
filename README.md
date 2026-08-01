@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0383-ransom-note) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
 ## Sorting
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
