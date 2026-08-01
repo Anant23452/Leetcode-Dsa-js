@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
 ## Sorting
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0144-binary-tree-preorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -348,4 +351,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
