@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0322-coin-change) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0212-word-search-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0113-path-sum-ii) |
+| [0212-word-search-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0257-binary-tree-paths) |
 ## String Matching
 |  |
@@ -352,4 +356,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
