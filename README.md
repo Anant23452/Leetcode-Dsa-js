@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
 | [0747-min-cost-climbing-stairs](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0966-binary-subarrays-with-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0212-word-search-ii) |
+| [0898-transpose-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0495-teemo-attacking) |
+| [0898-transpose-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0898-transpose-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
