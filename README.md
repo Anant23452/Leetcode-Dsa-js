@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/2121-find-if-path-exists-in-graph) |
 ## Bit Manipulation
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/2121-find-if-path-exists-in-graph) |
