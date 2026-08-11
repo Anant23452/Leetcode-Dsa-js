@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
+| [0742-to-lower-case](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0742-to-lower-case) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1032-satisfiability-of-equality-equations) |
 ## Design
