@@ -2,25 +2,47 @@
  * @param {number[][]} edges
  * @return {number[]}
  */
-var findRedundantConnection = function(edges) {
-    let parent = Array.from({ length: edges.length + 1 }, (_, i) => i);
-    //find code
-    function find(x){
-        if(parent[x]===x){
-            return x;
+var findRedundantConnection = function (edges) {
+    let ans = []
+     let visited = new Set();
+    let n = edges.length;
+    let graph = Array.from({ length: n + 1 }, () => [])
+    for (let [u, v] of edges) {
+
+        graph[u].push(v);
+        graph[v].push(u);
+
+        visited = new Set();
+
+        let result = dfs(u, -1);
+
+        if (result) {
+            return [u, v];
         }
-        parent[x]=find(parent[x]);
-        return parent[x]
+    }
+    // console.log(graph)
+    //dfs approch 
+   
+    function dfs(node, parent) {
+        visited.add(node);
+        for (let neighbor of graph[node]) {
+            // normal backward edge to parent
+            if (neighbor === parent) {
+                continue;
+            }
+            if (visited.has(neighbor)) {
+                return [node, neighbor];
+
+            }
+
+            let result = dfs(neighbor, node);
+
+            if (result) {
+                return result;
+            }
+
+        }
     }
 
-    //union of edges
-    for(let [x,y] of edges){
-        let rx = find(x);
-        let ry = find(y);
-        if(rx===ry){
-            return [x,y]
-        }
-        parent[rx]=ry;
-
-    }
+    return null;
 };
