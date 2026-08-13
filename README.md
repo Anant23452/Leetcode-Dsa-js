@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
+| [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
+| [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1039-find-the-town-judge) |
@@ -417,8 +420,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
