@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 | [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 | [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0685-redundant-connection-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1032-satisfiability-of-equality-equations) |
