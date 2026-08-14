@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/2121-find-if-path-exists-in-graph) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0685-redundant-connection-ii) |
+| [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1032-satisfiability-of-equality-equations) |
@@ -437,4 +441,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
+## Graph Coloring
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
