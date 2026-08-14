@@ -2,18 +2,22 @@
  * @param {number[]} nums
  * @return {number}
  */
-var triangleNumber = function(nums) {
-    nums.sort((a,b)=>a-b)
-    let n =nums.length;
-    let count=0;
-    for(let i=0;i<n-2;i++){
-        for(let j =i+1;j<n-1;j++){
-            for(let k =j+1;k<n;k++){
-                if(nums[i]+nums[j]>nums[k]){
-                    count++;
-                }
+var triangleNumber = function (nums) {
+    nums.sort((a, b) => a - b)
+    let count = 0;
+    let n = nums.length
+    for (let i = n-1 ; i > 1; i--) {
+        let left = 0;
+        let right = i - 1;
+        while (left < right) {
+            if (nums[left] + nums[right] > nums[i]) {
+                count += right - left;
+                right--;
+            }
+            else {
+                left++
             }
         }
     }
-    return count;
+    return count
 };
