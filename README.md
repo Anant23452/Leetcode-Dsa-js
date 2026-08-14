@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0143-reorder-list) |
+| [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0495-teemo-attacking) |
 | [0525-contiguous-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
 | [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 | [0747-min-cost-climbing-stairs](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0747-min-cost-climbing-stairs) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0222-count-complete-tree-nodes) |
+| [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 ## Dynamic Programming
 |  |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
 ## Simulation
 |  |
 | ------- |
