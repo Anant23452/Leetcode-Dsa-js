@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/2121-find-if-path-exists-in-graph) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0922-possible-bipartition](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0922-possible-bipartition) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0922-possible-bipartition](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0922-possible-bipartition) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -450,8 +454,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0922-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0922-possible-bipartition) |
 <!---LeetCode Topics End-->
