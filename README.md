@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1039-find-the-town-judge) |
+| [1876-map-of-highest-peak](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1876-map-of-highest-peak) |
 | [4008-restore-finishing-order](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/4008-restore-finishing-order) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0542-01-matrix) |
 | [0898-transpose-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1876-map-of-highest-peak) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
 |  |
