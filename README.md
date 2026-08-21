@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0205-isomorphic-strings) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0207-course-schedule) |
@@ -476,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0922-possible-bipartition) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
