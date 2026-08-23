@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0685-redundant-connection-ii) |
+| [0744-network-delay-time](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0871-keys-and-rooms) |
@@ -485,4 +488,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0127-word-ladder) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0744-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
