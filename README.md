@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1039-find-the-town-judge) |
+| [1325-path-with-maximum-probability](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1325-path-with-maximum-probability) |
 | [1876-map-of-highest-peak](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1876-map-of-highest-peak) |
 | [4008-restore-finishing-order](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/4008-restore-finishing-order) |
 ## Binary Search
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1039-find-the-town-judge) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1325-path-with-maximum-probability](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -497,13 +499,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1325-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
