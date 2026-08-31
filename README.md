@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0128-longest-consecutive-sequence) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/2383-add-two-integers) |
