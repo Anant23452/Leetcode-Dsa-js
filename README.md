@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0228-summary-ranges) |
 | [0322-coin-change](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0322-coin-change) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0454-4sum-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0222-count-complete-tree-nodes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0907-koko-eating-bananas) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0212-word-search-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0542-01-matrix) |
 | [0898-transpose-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1036-rotting-oranges) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-network-delay-time](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0803-cheapest-flights-within-k-stops) |
