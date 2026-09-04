@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
 | [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
+| [0692-top-k-frequent-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 | [0747-min-cost-climbing-stairs](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0792-binary-search) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0647-palindromic-substrings) |
+| [0692-top-k-frequent-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0742-to-lower-case) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
+| [0692-top-k-frequent-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1014-k-closest-points-to-origin) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0383-ransom-note) |
+| [0692-top-k-frequent-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
 | ------- |
@@ -474,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0212-word-search-ii) |
+| [0692-top-k-frequent-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0692-top-k-frequent-words) |
 ## Graph Theory
 |  |
 | ------- |
@@ -535,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -569,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0692-top-k-frequent-words) |
 ## Geometry
 |  |
 | ------- |
