@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1014-k-closest-points-to-origin) |
 | [2383-add-two-integers](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/2383-add-two-integers) |
+| [4168-mirror-distance-of-an-integer](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/4168-mirror-distance-of-an-integer) |
 ## Sliding Window
 |  |
 | ------- |
