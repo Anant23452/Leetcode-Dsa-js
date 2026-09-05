@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0143-reorder-list) |
 | [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Stack
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
 | [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 | [0747-min-cost-climbing-stairs](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0747-min-cost-climbing-stairs) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0907-koko-eating-bananas) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0658-find-k-closest-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0966-binary-subarrays-with-sum) |
 ## Memoization
 |  |
@@ -546,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0789-kth-largest-element-in-a-stream) |
