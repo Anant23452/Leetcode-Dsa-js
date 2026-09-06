@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0295-find-median-from-data-stream) |
 | [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0658-find-k-closest-elements) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0389-find-the-difference) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
