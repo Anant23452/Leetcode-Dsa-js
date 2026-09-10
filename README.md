@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
+| [1953-finding-mk-average](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1953-finding-mk-average) |
 ## Sorting
 |  |
 | ------- |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1753-path-with-minimum-effort) |
+| [1953-finding-mk-average](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1953-finding-mk-average) |
 ## Shortest Path
 |  |
 | ------- |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1953-finding-mk-average](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1953-finding-mk-average) |
 ## Quickselect
 |  |
 | ------- |
@@ -629,4 +632,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0480-sliding-window-median) |
+| [1953-finding-mk-average](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1953-finding-mk-average) |
+## Queue
+|  |
+| ------- |
+| [1953-finding-mk-average](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1953-finding-mk-average) |
+## Ordered Set
+|  |
+| ------- |
+| [1953-finding-mk-average](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1953-finding-mk-average) |
 <!---LeetCode Topics End-->
