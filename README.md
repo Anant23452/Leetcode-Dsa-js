@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1753-path-with-minimum-effort) |
+| [1762-furthest-building-you-can-reach](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1762-furthest-building-you-can-reach) |
 | [1876-map-of-highest-peak](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1876-map-of-highest-peak) |
 | [4008-restore-finishing-order](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/4008-restore-finishing-order) |
 ## Binary Search
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1762-furthest-building-you-can-reach](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1762-furthest-building-you-can-reach) |
 ## Simulation
 |  |
 | ------- |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1753-path-with-minimum-effort) |
+| [1762-furthest-building-you-can-reach](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1762-furthest-building-you-can-reach) |
 | [1953-finding-mk-average](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1953-finding-mk-average) |
 ## Shortest Path
 |  |
