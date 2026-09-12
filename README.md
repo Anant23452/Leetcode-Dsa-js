@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
 ## Recursion
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0480-sliding-window-median) |
 | [0495-teemo-attacking](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0480-sliding-window-median) |
+| [0496-next-greater-element-i](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
 ## Trie
 |  |
