@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1325-path-with-maximum-probability) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1753-path-with-minimum-effort](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1762-furthest-building-you-can-reach) |
 | [1876-map-of-highest-peak](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1876-map-of-highest-peak) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [4008-restore-finishing-order](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/4008-restore-finishing-order) |
 ## String
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1014-k-closest-points-to-origin) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -648,4 +651,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1953-finding-mk-average](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1953-finding-mk-average) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
