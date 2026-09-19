@@ -1,17 +1,20 @@
-/**
- * @param {number[]} nums
- * @return {number[]}
- */
 var smallerNumbersThanCurrent = function(nums) {
-    let res=[];
-    for(let i =0;i<nums.length;i++){
-        let count =0
-        for(let j=0;j<nums.length;j++){
-            if(nums[i]>nums[j]){
-                count++
-            }
+    
+    let sorted = [...nums].sort((a,b) => a-b);
+
+    let map = {};
+
+    for(let i = 0; i < sorted.length; i++){
+        if(map[sorted[i]] === undefined){
+            map[sorted[i]] = i;
         }
-            res.push(count)
     }
+
+    let res = [];
+
+    for(let num of nums){
+        res.push(map[num]);
+    }
+
     return res;
 };
