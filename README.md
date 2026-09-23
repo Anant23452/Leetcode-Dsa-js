@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0937-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
 | [1953-finding-mk-average](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1953-finding-mk-average) |
 ## Sorting
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0937-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0937-online-stock-span) |
 | [1953-finding-mk-average](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1953-finding-mk-average) |
 ## Quickselect
 |  |
