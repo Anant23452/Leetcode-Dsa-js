@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0937-online-stock-span) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0742-to-lower-case) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1032-satisfiability-of-equality-equations) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
