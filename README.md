@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1325-path-with-maximum-probability) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1753-path-with-minimum-effort](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1762-furthest-building-you-can-reach) |
 | [1876-map-of-highest-peak](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1876-map-of-highest-peak) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0943-sum-of-subarray-minimums) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Trie
 |  |
 | ------- |
