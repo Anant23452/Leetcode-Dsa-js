@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1032-satisfiability-of-equality-equations) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -678,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
