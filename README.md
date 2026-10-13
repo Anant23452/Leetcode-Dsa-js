@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0215-kth-largest-element-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0611-valid-triangle-number) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0966-binary-subarrays-with-sum) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0209-minimum-size-subarray-sum) |
 | [0480-sliding-window-median](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0658-find-k-closest-elements) |
