@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0898-transpose-matrix](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0943-sum-of-subarray-minimums) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0721-accounts-merge) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0904-fruit-into-baskets) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0966-binary-subarrays-with-sum) |
 ## Memoization
 |  |
