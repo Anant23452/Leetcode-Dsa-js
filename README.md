@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0525-contiguous-array) |
