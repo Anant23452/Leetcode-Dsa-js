@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1032-satisfiability-of-equality-equations) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1004-max-consecutive-ones-iii) |
 | [1023-time-based-key-value-store](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1023-time-based-key-value-store) |
 | [1753-path-with-minimum-effort](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Union-Find
 |  |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anant23452/Leetcode-Dsa-js/tree/master/1004-max-consecutive-ones-iii) |
 ## Memoization
 |  |
 | ------- |
